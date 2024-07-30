@@ -23,7 +23,7 @@ Exploratory Data Analysis (EDA): Generate summary statistics and initial plots t
 Visualization: Create detailed plots to visualize the distribution of rides across different time dimensions.
 
 ## Requirements: Libraries used in R
-1. gplot2: ggplot2 is the most popular data visualization library that is most widely used for creating aesthetic visualization plots.
+1. ggplot2: ggplot2 is the most popular data visualization library that is most widely used for creating aesthetic visualization plots.
 2. lubridate: Use time-frames in the dataset
 3. dplyr: Data Manipulation
 4. tidyr: Tidy the data
