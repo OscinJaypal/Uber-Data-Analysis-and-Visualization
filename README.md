@@ -21,3 +21,13 @@ Data Cleaning: Ensure that the dataset is free from missing values and inconsist
 Feature Engineering: Extract necessary time-based features such as hour, day of the week, and month from the timestamp.
 Exploratory Data Analysis (EDA): Generate summary statistics and initial plots to understand the data.
 Visualization: Create detailed plots to visualize the distribution of rides across different time dimensions.
+
+## Requirements: Libraries used in R
+1. gplot2: ggplot2 is the most popular data visualization library that is most widely used for creating aesthetic visualization plots.
+2. lubridate: Use time-frames in the dataset
+3. dplyr: Data Manipulation
+4. tidyr: Tidy the data
+5. DT: Datatables in JS
+6. scales: With the help of graphical scales, we can automatically map the data to the correct scales with well-placed axes and legends.
+
+## There is a step by step guidance in the code along with the necessary information of the code used.
